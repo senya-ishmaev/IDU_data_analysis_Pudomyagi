@@ -1,9 +1,9 @@
 # IDU_data_analysis_Pudomyagi
 
-1. About:
+__1. About:__
    This repository stores layers, databases and notebooks that were used to analyze data from areas within the rural settlement of Pudomyagi
 
-2. Our Team (Institute of Design & Urban Studies, ITMO University):
+__2. Our Team (Institute of Design & Urban Studies, ITMO University):__
 
    Balabanova Christina (Data collection, territory assessment)
 
@@ -13,7 +13,7 @@
 
    Metelyova Alina (Creation of a territory model, territory assessment)
 
-4. The methods used to assess the territory:
+__3. The methods used to assess the territory:__
 
    Hypothesis 1: https://colab.research.google.com/drive/1UrxjIs9y5mG3VmsMDTuQm97Vfeic2Phy?usp=sharing
 
@@ -21,9 +21,9 @@
  
    Hypothesis 3: https://colab.research.google.com/drive/1mQvM1WNK8xIkD9eatXnDdXgI4OaLmO_3?usp=sharing
 
-   All necessary data is in the archive data.zip
+   <ins>All necessary data is in the archive data.zip</ins>
 
-   Easy start:
+   __Easy start:__
    1. Make virtual environment: `$ python3 -m venv .venv`
    2. Activate it: `$ source .venv/bin/activate`
    3. Install your dependencies: `$ pip install -r requirements.txt`
