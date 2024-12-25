@@ -15,3 +15,15 @@
    Hypothesis 3: https://colab.research.google.com/drive/1mQvM1WNK8xIkD9eatXnDdXgI4OaLmO_3?usp=sharing
 
    All necessary data is in the archive data.zip
+
+Process:
+Make virtual environment:
+
+$ python3 -m venv .venv
+Activate it:
+
+$ source .venv/bin/activate
+Install your dependencies:
+
+$ pip install -r requirements.txt
+Choose your venv in jupyter notebook kernel.
