@@ -16,14 +16,9 @@
 
    All necessary data is in the archive data.zip
 
-Process:
-Make virtual environment:
+Easy start:
+1. Make virtual environment: `$ python3 -m venv .venv`
+2. Activate it: `$ source .venv/bin/activate`
+3. Install your dependencies: `$ pip install -r requirements.txt`
 
-`$ python3 -m venv .venv`
-Activate it:
-
-`$ source .venv/bin/activate`
-Install your dependencies:
-
-`$ pip install -r requirements.txt`
-Choose your venv in jupyter notebook kernel.
+Have a nice day!
