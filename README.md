@@ -21,7 +21,7 @@ __3. The methods used to assess the territory:__
  
    Hypothesis 3: https://colab.research.google.com/drive/1mQvM1WNK8xIkD9eatXnDdXgI4OaLmO_3?usp=sharing
 
-   <ins>All necessary data is in the archive data.zip</ins>
+   <ins>All necessary data is in the archive `data.zip`</ins>
 
    __Easy start:__
    1. Make virtual environment: `$ python3 -m venv .venv`
