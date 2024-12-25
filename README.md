@@ -24,8 +24,8 @@
    All necessary data is in the archive data.zip
 
    Easy start:
-1.    Make virtual environment: `$ python3 -m venv .venv`
-2.    Activate it: `$ source .venv/bin/activate`
-3.    Install your dependencies: `$ pip install -r requirements.txt`
+   1. Make virtual environment: `$ python3 -m venv .venv`
+   2. Activate it: `$ source .venv/bin/activate`
+   3. Install your dependencies: `$ pip install -r requirements.txt`
 
    Have a nice day!
