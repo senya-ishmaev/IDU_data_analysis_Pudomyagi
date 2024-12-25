@@ -19,11 +19,11 @@
 Process:
 Make virtual environment:
 
-'$ python3 -m venv .venv'
+`$ python3 -m venv .venv`
 Activate it:
 
-'$ source .venv/bin/activate'
+`$ source .venv/bin/activate`
 Install your dependencies:
 
-'$ pip install -r requirements.txt'
+`$ pip install -r requirements.txt`
 Choose your venv in jupyter notebook kernel.
