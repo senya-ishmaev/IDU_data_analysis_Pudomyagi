@@ -28,4 +28,4 @@
    2. Activate it: `$ source .venv/bin/activate`
    3. Install your dependencies: `$ pip install -r requirements.txt`
 
-   Have a nice day!
+   Enjoy your work!
