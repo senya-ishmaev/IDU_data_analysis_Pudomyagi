@@ -4,12 +4,16 @@
    This repository stores layers, databases and notebooks that were used to analyze data from areas within the rural settlement of Pudomyagi
 
 2. Our Team (Institute of Design & Urban Studies, ITMO University):
+
    Balabanova Christina (Data collection, territory assessment)
+
    Ishmaev Arseniy (Site assessment, repository preparation, design in rTIM)
+
    Kustov Andrey (Data collection, site assessment, design in rTIM)
+
    Metelyova Alina (Creation of a territory model, territory assessment)
 
-3. The methods used to assess the territory:
+4. The methods used to assess the territory:
 
    Hypothesis 1: https://colab.research.google.com/drive/1UrxjIs9y5mG3VmsMDTuQm97Vfeic2Phy?usp=sharing
 
